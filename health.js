@@ -82,7 +82,7 @@ new Chart("myChart3", {
 });
 
 var heightValues = [160, 165, 170, 175, 180];
-var weightValues = [50, 55, 60, 65, 70,40,80];
+var weightValues = [59, 60, 59, 62, 64,50,70];
 var bmiValues = [19.5, 20.2, 20.8, 21.2, 21.6, 18.0, 22.0];
 
 // Chart for weight
